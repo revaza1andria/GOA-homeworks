@@ -1,0 +1,1 @@
+print("me var andria revazashvi hobia fexburtis tamashi me minda rom cnobili fexburteli gavxde")
